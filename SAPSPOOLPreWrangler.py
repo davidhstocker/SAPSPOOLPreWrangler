@@ -1,7 +1,7 @@
 '''
 Created on 15 Jul 2020
 
-@author: d035331
+@author: David Stocker
 '''
 
 import argparse
